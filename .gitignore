@@ -1,0 +1,7 @@
+# Vim stuff
+*.swp
+*.swo
+
+# Compiled files
+build/
+
